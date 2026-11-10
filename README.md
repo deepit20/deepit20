@@ -77,7 +77,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 
 | Project | Contribution | Status |
 |---|---|---|
-| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): CLI rejects invalid `--limit` values on `links check` / `links suggest` instead of returning wrong results | 🟢 Approved, in review |
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): CLI rejects invalid `--limit` values on `links check` / `links suggest` instead of returning wrong results | ✅ Merged |
 
 ## 🧰 Tech arsenal
 
