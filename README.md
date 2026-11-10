@@ -1,23 +1,95 @@
-# 💫About Me :
-## About Me
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Deepit%20Sudheer%20Nayak&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Advanced%20Associate%20Software%20Engineer%20%E2%80%A2%20AI%20Identity%20Security&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
-I’m currently working on a major project titled **"Enhancing ATM Surveillance Security: Robust Weapon Detection Against Adversarial Attacks"**, where we use deep learning to identify weapons in real-time video footage and implement defenses against adversarial attacks.
+<p align="center">
+  <a href="https://github.com/deepit20">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Securing+identities+in+an+AI-first+world+%F0%9F%9B%A1%EF%B8%8F;Building+AI-driven+identity+threat+detection;Zero+Trust+%E2%80%A2+IAM+%E2%80%A2+Adversarial+ML;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch" alt="Typing SVG" />
+  </a>
+</p>
 
-I’m looking to collaborate on **web development projects**, especially those using **Spring Boot, Java, and full-stack technologies**.
-
-I’m looking for help with **advanced Data Structures and Algorithms in Java**, and improving my **spoken English** for placements.
-
-I’m currently learning **Spring Boot, Juniper Networks (JunOS), and refining my DSA skills using Striver’s A2Z sheet**.
-
-Ask me about **Java Spring Boot development, web project building, or adversarial machine learning**.
-
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=deepit20&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepit20&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepit20&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Advanced%20Associate%20Software%20Engineer-302b63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Identity%20Security-24c6dc?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=deepit20&style=for-the-badge&color=0f0c29&label=Profile+Views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepit20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛡️ whoami
+
+```yaml
+name:      Deepit Sudheer Nayak
+role:      Advanced Associate Software Engineer
+domain:    Cybersecurity → AI Identity Security
+building:  AI-powered identity threat detection & access intelligence
+mindset:   "Every identity is an attack surface. Defend it intelligently."
+languages: [Java, Python, JavaScript, C, C++]
+open_to:   [security research, IAM / identity platforms, AI-for-security collabs]
+```
+
+## 🚀 What I'm working on
+
+- 🔐 **AI Identity Security**: using machine learning to detect risky sign-ins, privilege misuse and identity-based attacks before they escalate.
+- 🧠 **Adversarial robustness**: making security ML models hold up against attackers who try to fool them.
+- ⚙️ **Secure engineering**: building backend services with Java and Spring Boot, secure by design.
+
+## 🧩 Featured project
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🛡️ <a href="https://github.com/deepit20/securenova-ai-identity-security-capstone">SecureNova: AI Identity Security</a></h3>
+      An AI-driven identity security platform focused on detecting and responding to identity threats.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AI-Identity%20Threat%20Detection-302b63?style=flat-square" />
+      <img src="https://img.shields.io/badge/Security-IAM-24c6dc?style=flat-square" />
+      <img src="https://img.shields.io/badge/Stack-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📁 Past work</b> (click to expand)</summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| 🎯 **ATM Surveillance: Robust Weapon Detection** | Deep learning model that detects weapons in real-time ATM CCTV footage, hardened against adversarial attacks. |
+| 🚚 [**Courier Management**](https://github.com/deepit20/Courier_management) | PHP + MySQL system for managing shipments and deliveries. |
+| 📝 [**MCQ Quiz**](https://github.com/deepit20/ipr_mse2) | Web-based multiple-choice quiz app. |
+| 🌐 [**Prodigy Web Dev Tasks**](https://github.com/deepit20/PRODIGY_WD_05) | Series of front-end projects built during the Prodigy InfoTech internship. |
+
+</details>
+
+## 🧰 Tech arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,js,c,cpp,php&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,maven,html,css,git,github,linux&theme=dark" />
+</p>
+
+## 📊 GitHub analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deepit20&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepit20&bg_color=0d1117&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="95%" />
+</p>
+
+## 🐍 Watch my contributions get eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepit20/deepit20/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/deepit20/deepit20/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
+</p>
