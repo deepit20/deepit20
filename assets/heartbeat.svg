@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120"><defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#04050d"/><stop offset=".6" stop-color="#0a0f24"/><stop offset="1" stop-color="#071a24"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#24c6dc"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <style>
+    .m{font-family:Consolas,'Cascadia Code','SF Mono',Menlo,'Courier New',monospace} .s{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}
+    .blink{animation:blink 1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+  </style><linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff" stop-opacity="1"/><stop offset=".85" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="fm"><rect width="1000" height="120" fill="url(#fade)"/></mask></defs>
+<g mask="url(#fm)"><path d="M-200,62 L60,62 L72,54 L80,62 L92,62 L98,72 L106,24 L114,80 L122,62 L140,56 L156,62 L200,62 L260,62 L272,54 L280,62 L292,62 L298,72 L306,24 L314,80 L322,62 L340,56 L356,62 L400,62 L460,62 L472,54 L480,62 L492,62 L498,72 L506,24 L514,80 L522,62 L540,56 L556,62 L600,62 L660,62 L672,54 L680,62 L692,62 L698,72 L706,24 L714,80 L722,62 L740,56 L756,62 L800,62 L860,62 L872,54 L880,62 L892,62 L898,72 L906,24 L914,80 L922,62 L940,56 L956,62 L1000,62 L1060,62 L1072,54 L1080,62 L1092,62 L1098,72 L1106,24 L1114,80 L1122,62 L1140,56 L1156,62 L1200,62" fill="none" stroke="#24c6dc" stroke-opacity=".18" stroke-width="2"/><g><path d="M-200,62 L60,62 L72,54 L80,62 L92,62 L98,72 L106,24 L114,80 L122,62 L140,56 L156,62 L200,62 L260,62 L272,54 L280,62 L292,62 L298,72 L306,24 L314,80 L322,62 L340,56 L356,62 L400,62 L460,62 L472,54 L480,62 L492,62 L498,72 L506,24 L514,80 L522,62 L540,56 L556,62 L600,62 L660,62 L672,54 L680,62 L692,62 L698,72 L706,24 L714,80 L722,62 L740,56 L756,62 L800,62 L860,62 L872,54 L880,62 L892,62 L898,72 L906,24 L914,80 L922,62 L940,56 L956,62 L1000,62 L1060,62 L1072,54 L1080,62 L1092,62 L1098,72 L1106,24 L1114,80 L1122,62 L1140,56 L1156,62 L1200,62" fill="none" stroke="#3dffa8" stroke-width="2.2" filter="url(#softglow)" stroke-dasharray="180 1200"><animate attributeName="stroke-dashoffset" values="0;-1380" dur="3.2s" repeatCount="indefinite"/></path></g></g>
+<text x="500.0" y="106" text-anchor="middle" class="m" font-size="12.5" fill="#6b7a99" letter-spacing="2"><tspan fill="#3dffa8" class="blink">●</tspan> SYSTEMS NOMINAL  ·  0 IDENTITIES COMPROMISED  ·  ALWAYS LEARNING</text>
+</svg>

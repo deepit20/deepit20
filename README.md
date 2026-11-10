@@ -29,11 +29,21 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   <img src="./assets/terminal.svg" alt="SecureNova identity threat engine terminal" width="100%" />
 </p>
 
+## 🌐 Global identity threat map
+
+<p align="center">
+  <img src="./assets/threat-map.svg" alt="Rotating globe of sign-ins flowing into an identity fabric, with attacks blocked" width="100%" />
+</p>
+
 ## 🚀 What I'm working on
 
 - 🔐 **AI Identity Security**: using machine learning to detect risky sign-ins, privilege misuse and identity-based attacks before they escalate.
 - 🧠 **Adversarial robustness**: making security ML models hold up against attackers who try to fool them.
 - ⚙️ **Secure engineering**: building backend services with Java and Spring Boot, secure by design.
+
+<p align="center">
+  <img src="./assets/zero-trust.svg" alt="Zero-trust request pipeline: identity, device, AI risk and policy checks" width="100%" />
+</p>
 
 ## 🧩 Featured project
 
@@ -63,7 +73,17 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 
 </details>
 
+## 🌍 Open source
+
+| Project | Contribution | Status |
+|---|---|---|
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): CLI rejects invalid `--limit` values on `links check` / `links suggest` instead of returning wrong results | 🟢 Approved, in review |
+
 ## 🧰 Tech arsenal
+
+<p align="center">
+  <img src="./assets/skills.svg" alt="Skill matrix radar and operating principles" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,js,c,cpp,php&theme=dark" />
@@ -87,3 +107,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   </picture>
 </p>
 
+
+<p align="center">
+  <img src="./assets/heartbeat.svg" alt="Systems nominal" width="100%" />
+</p>
