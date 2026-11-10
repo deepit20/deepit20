@@ -1,12 +1,6 @@
-<!-- Header -->
+<!-- Custom animated banner: assets/hero.svg -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Deepit%20Sudheer%20Nayak&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Advanced%20Associate%20Software%20Engineer%20%E2%80%A2%20AI%20Identity%20Security&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/deepit20">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Securing+identities+in+an+AI-first+world+%F0%9F%9B%A1%EF%B8%8F;Building+AI-driven+identity+threat+detection;Zero+Trust+%E2%80%A2+IAM+%E2%80%A2+Adversarial+ML;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+PyTorch" alt="Typing SVG" />
-  </a>
+  <img src="./assets/hero.svg" alt="Deepit Sudheer Nayak - AI Identity Security" width="100%" />
 </p>
 
 <p align="center">
@@ -28,6 +22,12 @@ mindset:   "Every identity is an attack surface. Defend it intelligently."
 languages: [Java, Python, JavaScript, C, C++]
 open_to:   [security research, IAM / identity platforms, AI-for-security collabs]
 ```
+
+## 🖥️ Live from the threat engine
+
+<p align="center">
+  <img src="./assets/terminal.svg" alt="SecureNova identity threat engine terminal" width="100%" />
+</p>
 
 ## 🚀 What I'm working on
 
@@ -87,6 +87,3 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
-</p>
