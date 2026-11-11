@@ -78,6 +78,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 | Project | Contribution | Status |
 |---|---|---|
 | [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): CLI rejects invalid `--limit` values on `links check` / `links suggest` instead of returning wrong results | ✅ Merged |
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1445](https://github.com/pyrite-wiki/pyrite/pull/1445): `orient --limit` enforces its documented 1-100 range as a clean usage error | ✅ Merged |
 
 ## 🧰 Tech arsenal
 
