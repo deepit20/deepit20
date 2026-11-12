@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Advanced%20Associate%20Software%20Engineer-302b63?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Identity%20Security-24c6dc?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=deepit20&style=for-the-badge&color=0f0c29&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Role-Advanced%20Associate%20Software%20Engineer-302b63?style=for-the-badge" alt="Role: Advanced Associate Software Engineer" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Identity%20Security-24c6dc?style=for-the-badge" alt="Focus: AI Identity Security" />
+  <img src="https://komarev.com/ghpvc/?username=deepit20&style=for-the-badge&color=0f0c29&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -104,9 +104,9 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,js,c,cpp,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,js,c,cpp,php&theme=dark" alt="Java, Spring, Python, PyTorch, JavaScript, C, C++, PHP" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,maven,html,css,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,maven,html,css,git,github,linux&theme=dark" alt="MySQL, MongoDB, Maven, HTML, CSS, Git, GitHub, Linux" />
 </p>
 
 ## 📊 GitHub analytics
