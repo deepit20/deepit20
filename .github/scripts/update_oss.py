@@ -28,7 +28,7 @@ def search(query):
 
 def row(pr, status):
     repo = pr["repository_url"].split("/repos/")[1]
-    title = pr["title"].replace("|", "\|")
+    title = pr["title"].replace("|", r"\|")
     return (f"| [**{repo}**](https://github.com/{repo}) "
             f"| [#{pr['number']}]({pr['html_url']}): {title} | {status} |")
 
