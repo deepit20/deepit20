@@ -22,7 +22,8 @@ def search(query):
     if TOKEN:
         req.add_header("Authorization", f"Bearer {TOKEN}")
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.load(resp)["items"]
+        data = json.load(resp)
+    return data["items"], data["total_count"]
 
 
 def row(pr, status):
@@ -32,14 +33,14 @@ def row(pr, status):
             f"| [#{pr['number']}]({pr['html_url']}): {title} | {status} |")
 
 
-merged = search(f"is:pr author:{USER} is:merged -user:{USER}")
-opened = search(f"is:pr author:{USER} is:open -user:{USER}")
+merged, merged_total = search(f"is:pr author:{USER} is:merged -user:{USER}")
+opened, _ = search(f"is:pr author:{USER} is:open -user:{USER}")
 lines = ["| Project | Contribution | Status |", "|---|---|---|"]
 lines += [row(p, "✅ Merged") for p in merged]
 lines += [row(p, "🟡 In review") for p in opened]
 if len(lines) == 2:
     lines.append("| | First contribution coming soon | |")
-count = f"**{len(merged)} merged pull request{'s' if len(merged) != 1 else ''}** to other projects"
+count = f"**{merged_total} merged pull request{'s' if merged_total != 1 else ''}** to other projects"
 block = f"{START}\n{count}\n\n" + "\n".join(lines) + f"\n\n<sub>Updated automatically every day.</sub>\n{END}"
 
 with open("README.md", encoding="utf-8") as f:
