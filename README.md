@@ -53,20 +53,20 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
       <h3>📊 <a href="https://github.com/deepit20/de-lab">DE Lab</a></h3>
       Open-source, local-first workspace for learning Data Engineering by doing: lessons, real SQL and Python in the browser, PySpark and Airflow emulators, spaced revision, projects and interview prep.
       <br/><br/>
-      <a href="https://deepit20.github.io/de-lab/?demo=1"><img src="https://img.shields.io/badge/Live%20demo-open-3dffa8?style=flat-square" /></a>
-      <a href="https://github.com/deepit20/de-lab/releases/latest"><img src="https://img.shields.io/github/v/release/deepit20/de-lab?style=flat-square&color=24c6dc" /></a>
-      <img src="https://img.shields.io/github/stars/deepit20/de-lab?style=flat-square&color=8b5cf6" />
+      <a href="https://deepit20.github.io/de-lab/?demo=1"><img src="https://img.shields.io/badge/Live%20demo-open-3dffa8?style=flat-square" alt="Live demo" /></a>
+      <a href="https://github.com/deepit20/de-lab/releases/latest"><img src="https://img.shields.io/github/v/release/deepit20/de-lab?style=flat-square&color=24c6dc" alt="Latest release" /></a>
+      <img src="https://img.shields.io/github/stars/deepit20/de-lab?style=flat-square&color=8b5cf6" alt="GitHub stars" />
       <br/>
-      <img src="https://img.shields.io/badge/React-TypeScript-302b63?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/PWA-local--first-24c6dc?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-TypeScript-302b63?style=flat-square&logo=react" alt="React and TypeScript" />
+      <img src="https://img.shields.io/badge/PWA-local--first-24c6dc?style=flat-square" alt="Local-first PWA" />
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/deepit20/securenova-ai-identity-security-capstone">SecureNova</a></h3>
       Capstone on securing an AI platform end to end: threat model, IAM design (OAuth, machine-to-machine auth, credential rotation), red-team and blue-team exercises, and security policy.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Identity-IAM%20%C2%B7%20OAuth-302b63?style=flat-square" />
-      <img src="https://img.shields.io/badge/Security-Red%20%2B%20Blue%20team-ff3860?style=flat-square" />
-      <img src="https://img.shields.io/badge/Model-Zero%20Trust-24c6dc?style=flat-square" />
+      <img src="https://img.shields.io/badge/Identity-IAM%20%C2%B7%20OAuth-302b63?style=flat-square" alt="IAM and OAuth" />
+      <img src="https://img.shields.io/badge/Security-Red%20%2B%20Blue%20team-ff3860?style=flat-square" alt="Red and blue team" />
+      <img src="https://img.shields.io/badge/Model-Zero%20Trust-24c6dc?style=flat-square" alt="Zero Trust" />
     </td>
   </tr>
 </table>
