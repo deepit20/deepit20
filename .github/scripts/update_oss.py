@@ -45,6 +45,8 @@ block = f"{START}\n{count}\n\n" + "\n".join(lines) + f"\n\n<sub>Updated automati
 
 with open("README.md", encoding="utf-8") as f:
     text = f.read()
+if START not in text or END not in text:
+    raise SystemExit("OSS markers not found in README.md")
 new = re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: block, text, flags=re.S)
 if new != text:
     with open("README.md", "w", encoding="utf-8", newline="\n") as f:
