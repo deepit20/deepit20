@@ -45,17 +45,28 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   <img src="./assets/zero-trust.svg" alt="Zero-trust request pipeline: identity, device, AI risk and policy checks" width="100%" />
 </p>
 
-## 🧩 Featured project
+## 🧩 Featured projects
 
 <table>
   <tr>
-    <td width="100%">
-      <h3>🛡️ <a href="https://github.com/deepit20/securenova-ai-identity-security-capstone">SecureNova: AI Identity Security</a></h3>
-      An AI-driven identity security platform focused on detecting and responding to identity threats.
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/deepit20/de-lab">DE Lab</a></h3>
+      Open-source, local-first workspace for learning Data Engineering by doing: lessons, real SQL and Python in the browser, PySpark and Airflow emulators, spaced revision, projects and interview prep.
       <br/><br/>
-      <img src="https://img.shields.io/badge/AI-Identity%20Threat%20Detection-302b63?style=flat-square" />
-      <img src="https://img.shields.io/badge/Security-IAM-24c6dc?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+      <a href="https://deepit20.github.io/de-lab/?demo=1"><img src="https://img.shields.io/badge/Live%20demo-open-3dffa8?style=flat-square" /></a>
+      <a href="https://github.com/deepit20/de-lab/releases/latest"><img src="https://img.shields.io/github/v/release/deepit20/de-lab?style=flat-square&color=24c6dc" /></a>
+      <img src="https://img.shields.io/github/stars/deepit20/de-lab?style=flat-square&color=8b5cf6" />
+      <br/>
+      <img src="https://img.shields.io/badge/React-TypeScript-302b63?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/PWA-local--first-24c6dc?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/deepit20/securenova-ai-identity-security-capstone">SecureNova</a></h3>
+      Capstone on securing an AI platform end to end: threat model, IAM design (OAuth, machine-to-machine auth, credential rotation), red-team and blue-team exercises, and security policy.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Identity-IAM%20%C2%B7%20OAuth-302b63?style=flat-square" />
+      <img src="https://img.shields.io/badge/Security-Red%20%2B%20Blue%20team-ff3860?style=flat-square" />
+      <img src="https://img.shields.io/badge/Model-Zero%20Trust-24c6dc?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -75,10 +86,16 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 
 ## 🌍 Open source
 
+<!-- OSS:START -->
+**2 merged pull requests** to other projects
+
 | Project | Contribution | Status |
 |---|---|---|
-| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): CLI rejects invalid `--limit` values on `links check` / `links suggest` instead of returning wrong results | ✅ Merged |
-| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1445](https://github.com/pyrite-wiki/pyrite/pull/1445): `orient --limit` enforces its documented 1-100 range as a clean usage error | ✅ Merged |
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1445](https://github.com/pyrite-wiki/pyrite/pull/1445): fix(cli): refuse orient --limit outside 1-100 as a usage error (#1424) | ✅ Merged |
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): fix(cli): refuse --limit below 1 on links check and links suggest (#1431) | ✅ Merged |
+
+<sub>Updated automatically every day.</sub>
+<!-- OSS:END -->
 
 ## 🧰 Tech arsenal
 
