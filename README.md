@@ -115,7 +115,6 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   <img src="https://streak-stats.demolab.com?user=deepit20&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
-
 ## 🐍 Watch my contributions get eaten
 
 <p align="center">
@@ -124,7 +123,6 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
     <img alt="contribution snake" src="https://raw.githubusercontent.com/deepit20/deepit20/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 
 <p align="center">
   <img src="./assets/heartbeat.svg" alt="Systems nominal" width="100%" />
