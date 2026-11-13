@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "30 1 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/scripts/update_oss.py, .github/workflows/update-oss.yml]
 
 permissions:
   contents: write
