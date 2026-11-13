@@ -18,7 +18,8 @@ def search(query):
     url = "https://api.github.com/search/issues?" + urllib.parse.urlencode(
         {"q": query, "sort": "created", "order": "desc", "per_page": 50}
     )
-    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json"})
+    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json",
+                                               "User-Agent": f"{USER}-profile-oss-updater"})
     if TOKEN:
         req.add_header("Authorization", f"Bearer {TOKEN}")
     with urllib.request.urlopen(req, timeout=30) as resp:
