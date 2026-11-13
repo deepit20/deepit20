@@ -19,7 +19,8 @@ def search(query):
         {"q": query, "sort": "created", "order": "desc", "per_page": 50}
     )
     req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json",
-                                               "User-Agent": f"{USER}-profile-oss-updater"})
+                                               "User-Agent": f"{USER}-profile-oss-updater",
+                                               "X-GitHub-Api-Version": "2022-11-28"})
     if TOKEN:
         req.add_header("Authorization", f"Bearer {TOKEN}")
     with urllib.request.urlopen(req, timeout=30) as resp:
