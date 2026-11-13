@@ -112,7 +112,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepit20&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=deepit20&theme=tokyonight&hide_border=true&background=0D1117&timezone=Asia/Kolkata" alt="GitHub streak" />
 </p>
 
 ## 🐍 Watch my contributions get eaten
