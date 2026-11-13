@@ -6,6 +6,8 @@ own: merged ones first (newest first), then ones still open.
 import json
 import os
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -23,9 +25,15 @@ def search(query):
                                                "X-GitHub-Api-Version": "2022-11-28"})
     if TOKEN:
         req.add_header("Authorization", f"Bearer {TOKEN}")
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        data = json.load(resp)
-    return data["items"], data["total_count"]
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.load(resp)
+            return data["items"], data["total_count"]
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2:
+                raise
+            time.sleep(5 * (attempt + 1))
 
 
 def row(pr, status):
