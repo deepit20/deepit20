@@ -2,6 +2,9 @@
 
 Lists pull requests authored by the profile owner in repositories they do not
 own: merged ones first (newest first), then ones still open.
+
+Usage: GITHUB_TOKEN=... python .github/scripts/update_oss.py
+Set GH_USER to build the table for a different account.
 """
 import json
 import os
