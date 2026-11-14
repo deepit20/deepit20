@@ -19,7 +19,7 @@ role:      Advanced Associate Software Engineer
 domain:    Cybersecurity → AI Identity Security
 building:  AI-powered identity threat detection & access intelligence
 mindset:   "Every identity is an attack surface. Defend it intelligently."
-languages: [Java, Python, JavaScript, C, C++]
+languages: [Java, Python, JavaScript, C, C++, PHP]
 open_to:   [security research, IAM / identity platforms, AI-for-security collabs]
 ```
 
