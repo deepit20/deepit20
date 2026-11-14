@@ -120,7 +120,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepit20/deepit20/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/deepit20/deepit20/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/deepit20/deepit20/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
