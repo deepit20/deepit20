@@ -80,7 +80,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 | 🎯 **ATM Surveillance: Robust Weapon Detection** | Deep learning model that detects weapons in real-time ATM CCTV footage, hardened against adversarial attacks. |
 | 🚚 [**Courier Management**](https://github.com/deepit20/Courier_management) | PHP + MySQL system for managing shipments and deliveries. |
 | 📝 [**MCQ Quiz**](https://github.com/deepit20/ipr_mse2) | Web-based multiple-choice quiz app. |
-| 🌐 [**Prodigy Web Dev Tasks**](https://github.com/deepit20/PRODIGY_WD_05) | Series of front-end projects built during the Prodigy InfoTech internship. |
+| 🌐 [**Weather App**](https://github.com/deepit20/PRODIGY_WD_05) | Weather app using the OpenWeatherMap API, built during the Prodigy InfoTech web dev internship. |
 
 </details>
 
