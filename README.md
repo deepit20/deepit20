@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Advanced%20Associate%20Software%20Engineer-302b63?style=for-the-badge" alt="Role: Advanced Associate Software Engineer" />
   <img src="https://img.shields.io/badge/Focus-AI%20Identity%20Security-24c6dc?style=for-the-badge" alt="Focus: AI Identity Security" />
-  <img src="https://komarev.com/ghpvc/?username=deepit20&style=for-the-badge&color=0f0c29&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=deepit20&style=for-the-badge&color=302b63&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
