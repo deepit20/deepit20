@@ -1,7 +1,7 @@
 """Rebuild the open source table in README.md from GitHub's search API.
 
 Lists pull requests authored by the profile owner in repositories they do not
-own: merged ones first (newest first), then ones still open.
+own: merged ones first, then ones still open, each newest first by creation date.
 
 Usage: GITHUB_TOKEN=... python .github/scripts/update_oss.py
 Set GH_USER to build the table for a different account.
