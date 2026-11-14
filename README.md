@@ -1,5 +1,4 @@
 <a id="top"></a>
-<!-- Custom animated banner: assets/hero.svg -->
 <p align="center">
   <img src="./assets/hero.svg" alt="Deepit Sudheer Nayak · AI Identity Security" width="100%" />
 </p>
