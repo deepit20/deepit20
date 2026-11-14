@@ -51,7 +51,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/deepit20/de-lab">DE Lab</a></h3>
-      Open-source, local-first workspace for learning Data Engineering by doing: lessons, real SQL and Python in the browser, PySpark and Airflow emulators, spaced revision, projects and interview prep.
+      Open-source, local-first workspace for learning data engineering by doing: lessons, real SQL and Python in the browser, PySpark and Airflow emulators, spaced revision, projects and interview prep.
       <br/><br/>
       <a href="https://deepit20.github.io/de-lab/?demo=1"><img src="https://img.shields.io/badge/Live%20demo-open-3dffa8?style=flat-square" alt="Live demo" /></a>
       <a href="https://github.com/deepit20/de-lab/releases/latest"><img src="https://img.shields.io/github/v/release/deepit20/de-lab?style=flat-square&color=24c6dc" alt="Latest release" /></a>
