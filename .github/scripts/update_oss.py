@@ -33,6 +33,10 @@ def search(query):
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.load(resp)
             return data["items"], data["total_count"]
+        except urllib.error.HTTPError as err:
+            if err.code < 500 or attempt == 2:
+                raise
+            time.sleep(5 * (attempt + 1))
         except (urllib.error.URLError, TimeoutError):
             if attempt == 2:
                 raise
