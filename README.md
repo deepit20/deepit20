@@ -109,7 +109,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,maven,html,css,git,github,linux&theme=dark" alt="MySQL, MongoDB, Maven, HTML, CSS, Git, GitHub, Linux" />
 </p>
 
-## 📊 GitHub analytics
+## 📊 Contribution streak
 
 <p align="center">
   <a href="https://github.com/deepit20?tab=overview"><img src="https://streak-stats.demolab.com?user=deepit20&theme=tokyonight&hide_border=true&background=0D1117&timezone=Asia/Kolkata" alt="GitHub streak" /></a>
