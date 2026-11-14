@@ -55,7 +55,7 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
       <br/><br/>
       <a href="https://deepit20.github.io/de-lab/?demo=1"><img src="https://img.shields.io/badge/Live%20demo-open-3dffa8?style=flat-square" alt="Live demo" /></a>
       <a href="https://github.com/deepit20/de-lab/releases/latest"><img src="https://img.shields.io/github/v/release/deepit20/de-lab?style=flat-square&color=24c6dc" alt="Latest release" /></a>
-      <img src="https://img.shields.io/github/stars/deepit20/de-lab?style=flat-square&color=8b5cf6" alt="GitHub stars" />
+      <a href="https://github.com/deepit20/de-lab/stargazers"><img src="https://img.shields.io/github/stars/deepit20/de-lab?style=flat-square&color=8b5cf6" alt="GitHub stars" /></a>
       <br/>
       <img src="https://img.shields.io/badge/React-TypeScript-302b63?style=flat-square&logo=react" alt="React and TypeScript" />
       <img src="https://img.shields.io/badge/PWA-local--first-24c6dc?style=flat-square" alt="Local-first PWA" />
