@@ -54,7 +54,7 @@ def main():
     merged, merged_total = search(f"is:pr author:{USER} is:merged -user:{USER}")
     opened, _ = search(f"is:pr author:{USER} is:open -user:{USER}")
     lines = ["| Project | Contribution | Status |", "|---|---|---|"]
-    lines += [row(p, "✅ Merged") for p in merged]
+    lines += [row(p, f"✅ Merged {p['closed_at'][:7]}") for p in merged]
     lines += [row(p, "🟡 In review") for p in opened]
     if len(lines) == 2:
         lines.append("| | First contribution coming soon | |")
