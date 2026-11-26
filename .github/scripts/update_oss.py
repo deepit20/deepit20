@@ -43,7 +43,7 @@ def search(query):
             time.sleep(5 * (attempt + 1))
 
 
-def row(pr, status):
+def row(pr: dict, status: str) -> str:
     repo = pr["repository_url"].split("/repos/")[1]
     title = pr["title"].replace("|", r"\|")
     return (f"| [**{repo}**](https://github.com/{repo}) "
