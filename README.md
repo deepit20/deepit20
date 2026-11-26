@@ -91,8 +91,8 @@ open_to:   [security research, IAM / identity platforms, AI-for-security collabs
 
 | Project | Contribution | Status |
 |---|---|---|
-| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1445](https://github.com/pyrite-wiki/pyrite/pull/1445): fix(cli): refuse orient --limit outside 1-100 as a usage error (#1424) | ✅ Merged |
-| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): fix(cli): refuse --limit below 1 on links check and links suggest (#1431) | ✅ Merged |
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1445](https://github.com/pyrite-wiki/pyrite/pull/1445): fix(cli): refuse orient --limit outside 1-100 as a usage error (#1424) | ✅ Merged 2026-11 |
+| [**pyrite-wiki/pyrite**](https://github.com/pyrite-wiki/pyrite) | [#1440](https://github.com/pyrite-wiki/pyrite/pull/1440): fix(cli): refuse --limit below 1 on links check and links suggest (#1431) | ✅ Merged 2026-11 |
 
 <sub>Updated automatically every day.</sub>
 <!-- OSS:END -->
