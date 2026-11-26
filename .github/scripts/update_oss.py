@@ -19,7 +19,7 @@ TOKEN = os.environ.get("GITHUB_TOKEN", "")
 START, END = "<!-- OSS:START -->", "<!-- OSS:END -->"
 
 
-def search(query):
+def search(query: str) -> tuple[list, int]:
     url = "https://api.github.com/search/issues?" + urllib.parse.urlencode(
         {"q": query, "sort": "created", "order": "desc", "per_page": 50}
     )
